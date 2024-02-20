@@ -1,12 +1,12 @@
 # M431_Cyberangriffe_Doku
 
 - [Einführung](#Einführung)
-- [I (Informationen)](#I (Informationen))
-- [P (Planung)](#P (Planung))
-- [E (Entscheidung)](#E (Entscheidung))
-- [R (Realisierung)](#R (Realisierung))
-- [K (Kontrolle)](#K (Kontrolle))
-- [A (Auswertung)](#A (Auswertung))
+- [I (Informationen)](#I_(Informationen))
+- [P (Planung)](#P_(Planung))
+- [E (Entscheidung)](#E_(Entscheidung))
+- [R (Realisierung)](#R_(Realisierung))
+- [K (Kontrolle)](#K_(Kontrolle))
+- [A (Auswertung)](#A_(Auswertung))
 
 ## Einführung
 
