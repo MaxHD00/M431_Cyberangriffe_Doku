@@ -8,8 +8,6 @@
 - [K (Kontrolle)](#K-(Kontrolle))
 - [A (Auswertung)](#A-(Auswertung))
 
-[[_TOC_]]
-
 ## Einführung
 
 Eine Dokumentation über ein bestimmtes Thema erstellen
