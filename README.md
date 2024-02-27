@@ -29,6 +29,7 @@ Die Themen sind: Exploits, Man-in-the-Middle, Session Hijacking, Zero-Day-Exploi
 
 ## P-(Planung)
 
+
 Projektantrag
 
 [Projektantrag.pdf](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/files/14417895/Projektanrag.pdf)
@@ -38,6 +39,8 @@ Brainstorm - Mindmap
 ![Mindmap](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/cbcb7fad-e161-41d1-991a-0f6ab6a04799)
 
 GANNT Diagramm
+
+<img width="2157" alt="planung" src="https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/224595d4-8eb2-415d-8675-d559a58962ea">
 
 ## E-(Entscheidung)
 ## R-(Realisierung)
