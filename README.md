@@ -10,8 +10,7 @@
 
 ## Einführung
 
-Eine Dokumentation über ein bestimmtes Thema erstellen
-Einen Video über ein bestimmtes IT-Thema erstellen
+Eine Dokumentation über Exploits; Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits sowie drei Videos über die einzelnen Themen erstellen. Wir lernen neue Sicherheitsrisiken und sammeln weitere Erfahrung mit Adobe Premiere zuarbeiten.
 
 ## I-(Informationen)
 
@@ -22,13 +21,24 @@ Thema: EXPLOITS
 - Zero-Day-Exploits
 
 
-SMART
+SMART Ziele
 
 Wir werden drei ~30 Sekunden Videos erstellen mit qualitatoven Inhalt von Exploits Erarbeitet mit Iperka in 5 Wochen.
 Dazu noch in einer Dokumentation die einzelnen Themen vertiefst anschauen, jedes Thema in 5 Unterthemen unterteilt.
 Die Themen sind: Exploits, Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits. Am 12.3 werden wir mit der Dokumentation und den Videos fertig sein ohne Kontrolle und Auswertung.
 
 ## P-(Planung)
+
+Projektantrag
+
+[Projektantrag.pdf](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/files/14417895/Projektanrag.pdf)
+
+Brainstorm - Mindmap
+
+![Mindmap](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/cbcb7fad-e161-41d1-991a-0f6ab6a04799)
+
+GANNT Diagramm
+
 ## E-(Entscheidung)
 ## R-(Realisierung)
 ## K-(Kontrolle)
