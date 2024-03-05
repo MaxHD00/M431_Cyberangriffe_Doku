@@ -40,11 +40,11 @@ Brainstorm - Mindmap
 
 GANNT Diagramm
 
-<img width="2157" alt="planung" src="https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/224595d4-8eb2-415d-8675-d559a58962ea">
+<img width="1079" alt="planung" src="https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/224595d4-8eb2-415d-8675-d559a58962ea">
 
 ## E-Entscheidung
 
-![entscheidung](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/3210f9ae-f421-412a-90e7-7dfac7cffaef)
+![entscheidung](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/805d7ccd-8217-46e3-a22d-ab8a4c0f54da)
 
 ## R-Realisierung
 ## K-Kontrolle
