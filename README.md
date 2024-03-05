@@ -42,7 +42,7 @@ Brainstorm - Mindmap
 
 Das GANNT Diagramm ist ein ungefährer Plan für unser Projekt. Die einzelnen Tasks haben wir in den einzelnen Überkategorien von IPERKA untergeordnet. Das Diagramm wird unser Leitfaden sein für den zeitlichen Vorgang unseres Projektes. Generell haben wir noch Zeit eingebaut als Puffer. 
 
-![planung](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/dbc2e605-bb8b-4466-875b-84ddabe79b22)
+![planung](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/6037b683-561c-4ec7-9d68-07797e79a4a3)
 
 ## E-Entscheidung
 
