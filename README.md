@@ -40,7 +40,7 @@ Brainstorm - Mindmap
 
 ### GANNT Diagramm
 
-Das GANNT Diagramm ist ein ungefährer Plan für unser Projekt. Die einzelnen Tasks haben wir in den einzelnen Überkategorien von IPERKA untergeordnet. Das Diagramm wird unser Leitfaden sein für den Vorgang unseres Projektes.
+Das GANNT Diagramm ist ein ungefährer Plan für unser Projekt. Die einzelnen Tasks haben wir in den einzelnen Überkategorien von IPERKA untergeordnet. Das Diagramm wird unser Leitfaden sein für den zeitlichen Vorgang unseres Projektes.
 
 <img width="1079" alt="planung" src="https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/224595d4-8eb2-415d-8675-d559a58962ea">
 
