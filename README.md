@@ -43,7 +43,7 @@ GANNT Diagramm
 
 ## E-Entscheidung
 
-Netzwerkanalyse
+Nutzwerkanalyse
 
 Wir vergleichen "Webseite" und "Video + Doku" miteinander. Bei dem Auswählen unseres Projektes war eine Webseite zu erstellen ein Kandidat, deswegen haben wir es als Vergleich benutzt. Auf der Webseite hätten wir gezeigt wie die Exploits funktionieren, ähnlich wie eine Dokumentation.  Als Kriterien haben wir:
 
