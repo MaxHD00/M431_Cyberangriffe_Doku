@@ -26,6 +26,7 @@ Eine Dokumentation über Exploits; Man-in-the-Middle, Session Hijacking, Zero-Da
 Wir werden drei ~30 Sekunden Videos erstellen mit qualitatoven Inhalt von Exploits Erarbeitet mit Iperka in 5 Wochen.
 Dazu noch in einer Dokumentation die einzelnen Themen vertiefst anschauen, jedes Thema in 5 Unterthemen unterteilt.
 Die Themen sind: Exploits, Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits. Am 12.3 werden wir mit der Dokumentation und den Videos fertig sein ohne Kontrolle und Auswertung.
+Zum Auswerten werden wir die von Videos Kollegen bewerten lassen mit einem Auswertungsbogen.
 
 Brainstorm - Mindmap
 
@@ -38,6 +39,8 @@ Brainstorm - Mindmap
 > siehe PDF in der Cloud
 
 ### GANNT Diagramm
+
+Das GANNT Diagramm ist ein ungefährer Plan für unser Projekt. Die einzelnen Tasks haben wir in den einzelnen Überkategorien von IPERKA untergeordnet. Das Diagramm wird unser Leitfaden sein für den Vorgang unseres Projektes.
 
 <img width="1079" alt="planung" src="https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/224595d4-8eb2-415d-8675-d559a58962ea">
 
@@ -62,7 +65,7 @@ Punkte:
 
 ![entscheidung](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/805d7ccd-8217-46e3-a22d-ab8a4c0f54da)
 
-Schlussendlich ist das "Video + Doku" geeigneter als die "Webseite". Der Unterschied ist bei dem Kriterium Geschwindigkeit. Wir sind uns einig, dass das Aufsetzen und die Recherchieren mit unseren Thema länger dauert. Das Wissen, welches wir uns aneignen werden für die Präsentation hat einen Mehrwert. 
+Schlussendlich ist das "Video + Doku" geeigneter als die "Webseite". Der Unterschied ist bei dem Kriterium Geschwindigkeit. Wir sind uns einig, dass das Aufsetzen und die Recherchieren mit unseren Thema länger dauert. Das Wissen, welches wir uns aneignen werden für die Präsentation, hat einen grossen Mehrwert in unserem Werdegang. 
 
 ## R-Realisierung
 ## K-Kontrolle
