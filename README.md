@@ -36,7 +36,7 @@ Projektantrag
 
 Brainstorm - Mindmap
 
-![Mindmap](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/cbcb7fad-e161-41d1-991a-0f6ab6a04799)
+![Brainstorming](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/2877dd25-35ad-4ab6-b671-d6fc92d192d8)
 
 GANNT Diagramm
 
