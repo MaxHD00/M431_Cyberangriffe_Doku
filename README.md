@@ -43,7 +43,7 @@ Brainstorm - Mindmap
 
 ## E-Entscheidung
 
-### Nutzwerkanalyse
+### Nutzwertanalyse
 
 Wir vergleichen "Webseite" und "Video + Doku" miteinander. Bei der Auswahl unseres Projektes war eine Webseite zu erstellen ein Kandidat, deswegen haben wir es als Vergleich. Auf der Webseite hätten wir gezeigt wie die Exploits funktionieren, ähnlich wie eine Dokumentation.  Als Kriterien haben wir:
 
