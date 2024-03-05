@@ -50,11 +50,11 @@ Das GANNT Diagramm ist ein ungefährer Plan für unser Projekt. Die einzelnen Ta
 
 Wir vergleichen "Webseite" und "Video + Doku" miteinander. Bei der Auswahl unseres Projektes war eine Webseite zu erstellen ein Kandidat, deswegen haben wir es als Vergleich. Auf der Webseite hätten wir gezeigt wie die Exploits funktionieren, ähnlich wie eine Dokumentation.  Als Kriterien haben wir:
 
-Motivation/Lernfreude: Wie viel interesse haben wir für das Pdrojekt? Wie motiviert sind wir für die Realisation des Projektes? 
+Motivation/Lernfreude: Wie viel Interesse haben wir für das Projekt? Wie motiviert sind wir für die Realisationsphase? 
 
 Persönlicher Nutzen: Wird das gelernte vom Projekt mir bei bei meiner Arbeit einen Nutzen sein? Hat das Produkt einen Wert im Werdegang unseres Berufslebens? 
 
-Geschwindigkeit: Wie viel Zeit geben wir uns für das Projekt? Werden wir das Projekt eher schneller Vorgehen oder langsamer feertigstellen? (Je höher, deso schneller)
+Geschwindigkeit: Wie viel Zeit geben wir uns für das Projekt? Werden wir das Projekt eher schneller vorgehen oder langsamer fertigstellen? (Je höher, deso schneller)
 
 Punkte:
 - 5P sehr hoch
@@ -65,7 +65,7 @@ Punkte:
 
 ![entscheidung](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/805d7ccd-8217-46e3-a22d-ab8a4c0f54da)
 
-Schlussendlich ist das "Video + Doku" geeigneter als die "Webseite". Der Unterschied ist bei dem Kriterium Geschwindigkeit. Wir sind uns einig, dass das Aufsetzen und die Recherchieren mit unseres Thema länger dauert. Mit dem Thema kennt sich der Hauptteil unseres Teams nicht aus, deswegen macht es Sinn sich auf das Thema zu konzentrieren. Das Wissen, welches wir uns aneignen hat einen grossen Mehrwert in unserem Werdegang. Die Videos fordern Schnittkentnisse von useren Teammitglied.
+Schlussendlich ist das "Video + Doku" geeigneter als die "Webseite". Der Unterschied ist bei dem Kriterium Geschwindigkeit. Wir sind uns einig, dass das Aufsetzen und das Recherchieren mit unseres Thema länger dauert. Mit dem Thema kennt sich der Hauptteil unseres Teams nicht aus, deswegen macht es Sinn sich auf das Thema zu konzentrieren. Das Wissen, welches wir uns aneignen hat einen grossen Mehrwert in unserem Werdegang. Die Videos werden Schnittkenntisse fordern.
 
 ## R-Realisierung
 ## K-Kontrolle
