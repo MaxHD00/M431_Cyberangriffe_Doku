@@ -45,13 +45,13 @@ GANNT Diagramm
 
 Nutzwerkanalyse
 
-Wir vergleichen "Webseite" und "Video + Doku" miteinander. Bei dem Auswählen unseres Projektes war eine Webseite zu erstellen ein Kandidat, deswegen haben wir es als Vergleich benutzt. Auf der Webseite hätten wir gezeigt wie die Exploits funktionieren, ähnlich wie eine Dokumentation.  Als Kriterien haben wir:
+Wir vergleichen "Webseite" und "Video + Doku" miteinander. Bei der Auswahl unseres Projektes war eine Webseite zu erstellen ein Kandidat, deswegen haben wir es als Vergleich. Auf der Webseite hätten wir gezeigt wie die Exploits funktionieren, ähnlich wie eine Dokumentation.  Als Kriterien haben wir:
 
 Motivation/Lernfreude: Wie viel interesse haben wir für das Pdrojekt? Wie motiviert sind wir für die Realisation des Projektes? 
 
 Persönlicher Nutzen: Wird das gelernte vom Projekt mir bei bei meiner Arbeit einen Nutzen sein? Hat das Produkt einen Wert im Werdegang unseres Berufslebens? 
 
-Geschwindigkeit: Wie viel Zeit geben wir uns für das Projekt? Werden wir das Projekt eher schneller Vorgehen oder langsamer? (Je höher, deso schneller)
+Geschwindigkeit: Wie viel Zeit geben wir uns für das Projekt? Werden wir das Projekt eher schneller Vorgehen oder langsamer feertigstellen? (Je höher, deso schneller)
 
 Punkte:
 - 5P sehr hoch
@@ -62,7 +62,7 @@ Punkte:
 
 ![entscheidung](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/805d7ccd-8217-46e3-a22d-ab8a4c0f54da)
 
-Schlussendlich ist das "Video + Doku" geeigneter als die "Webseite". Der Unterschied ist bei dem Kriterium Geschwindigkeit. Wir sind uns einig, dass das Aufsetzen und recherchieren mit unseren Thema länger dauert. 
+Schlussendlich ist das "Video + Doku" geeigneter als die "Webseite". Der Unterschied ist bei dem Kriterium Geschwindigkeit. Wir sind uns einig, dass das Aufsetzen und die Recherchieren mit unseren Thema länger dauert. Das Wissen, welches wir uns aneignen werden für die Präsentation hat einen Mehrwert. 
 
 ## R-Realisierung
 ## K-Kontrolle
