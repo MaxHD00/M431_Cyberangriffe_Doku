@@ -14,14 +14,14 @@ Eine Dokumentation über Exploits; Man-in-the-Middle, Session Hijacking, Zero-Da
 
 ## I-Informationen
 
-Thema: EXPLOITS
+### Thema: EXPLOITS
 
 - Man-in-the-Middle
 - Session Hijacking
 - Zero-Day-Exploits
 
 
-SMART Ziele
+### SMART Ziele
 
 Wir werden drei ~30 Sekunden Videos erstellen mit qualitatoven Inhalt von Exploits Erarbeitet mit Iperka in 5 Wochen.
 Dazu noch in einer Dokumentation die einzelnen Themen vertiefst anschauen, jedes Thema in 5 Unterthemen unterteilt.
@@ -33,17 +33,17 @@ Brainstorm - Mindmap
 
 ## P-Planung
 
-Projektantrag
+### Projektantrag
 
 > siehe PDF in der Cloud
 
-GANNT Diagramm
+### GANNT Diagramm
 
 <img width="1079" alt="planung" src="https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/224595d4-8eb2-415d-8675-d559a58962ea">
 
 ## E-Entscheidung
 
-Nutzwerkanalyse
+### Nutzwerkanalyse
 
 Wir vergleichen "Webseite" und "Video + Doku" miteinander. Bei der Auswahl unseres Projektes war eine Webseite zu erstellen ein Kandidat, deswegen haben wir es als Vergleich. Auf der Webseite hätten wir gezeigt wie die Exploits funktionieren, ähnlich wie eine Dokumentation.  Als Kriterien haben wir:
 
