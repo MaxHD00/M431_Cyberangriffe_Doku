@@ -40,9 +40,9 @@ Brainstorm - Mindmap
 
 ### GANNT Diagramm
 
-Das GANNT Diagramm ist ein ungefährer Plan für unser Projekt. Die einzelnen Tasks haben wir in den einzelnen Überkategorien von IPERKA untergeordnet. Das Diagramm wird unser Leitfaden sein für den zeitlichen Vorgang unseres Projektes.
+Das GANNT Diagramm ist ein ungefährer Plan für unser Projekt. Die einzelnen Tasks haben wir in den einzelnen Überkategorien von IPERKA untergeordnet. Das Diagramm wird unser Leitfaden sein für den zeitlichen Vorgang unseres Projektes. Generell haben wir noch Zeit eingebaut als Puffer. 
 
-<img width="1079" alt="planung" src="https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/224595d4-8eb2-415d-8675-d559a58962ea">
+![planung](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/dbc2e605-bb8b-4466-875b-84ddabe79b22)
 
 ## E-Entscheidung
 
@@ -65,7 +65,7 @@ Punkte:
 
 ![entscheidung](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/805d7ccd-8217-46e3-a22d-ab8a4c0f54da)
 
-Schlussendlich ist das "Video + Doku" geeigneter als die "Webseite". Der Unterschied ist bei dem Kriterium Geschwindigkeit. Wir sind uns einig, dass das Aufsetzen und die Recherchieren mit unseren Thema länger dauert. Das Wissen, welches wir uns aneignen werden für die Präsentation, hat einen grossen Mehrwert in unserem Werdegang. 
+Schlussendlich ist das "Video + Doku" geeigneter als die "Webseite". Der Unterschied ist bei dem Kriterium Geschwindigkeit. Wir sind uns einig, dass das Aufsetzen und die Recherchieren mit unseres Thema länger dauert. Mit dem Thema kennt sich der Hauptteil unseres Teams nicht aus, deswegen macht es Sinn sich auf das Thema zu konzentrieren. Das Wissen, welches wir uns aneignen hat einen grossen Mehrwert in unserem Werdegang. Die Videos fordern Schnittkentnisse von useren Teammitglied.
 
 ## R-Realisierung
 ## K-Kontrolle
