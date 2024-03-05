@@ -27,16 +27,15 @@ Wir werden drei ~30 Sekunden Videos erstellen mit qualitatoven Inhalt von Exploi
 Dazu noch in einer Dokumentation die einzelnen Themen vertiefst anschauen, jedes Thema in 5 Unterthemen unterteilt.
 Die Themen sind: Exploits, Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits. Am 12.3 werden wir mit der Dokumentation und den Videos fertig sein ohne Kontrolle und Auswertung.
 
-## P-Planung
+Brainstorm - Mindmap
 
+![Brainstorming](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/2877dd25-35ad-4ab6-b671-d6fc92d192d8)
+
+## P-Planung
 
 Projektantrag
 
 > siehe PDF in der Cloud
-
-Brainstorm - Mindmap
-
-![Brainstorming](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/2877dd25-35ad-4ab6-b671-d6fc92d192d8)
 
 GANNT Diagramm
 
@@ -44,7 +43,26 @@ GANNT Diagramm
 
 ## E-Entscheidung
 
+Netzwerkanalyse
+
+Wir vergleichen "Webseite" und "Video + Doku" miteinander. Bei dem Auswählen unseres Projektes war eine Webseite zu erstellen ein Kandidat, deswegen haben wir es als Vergleich benutzt. Auf der Webseite hätten wir gezeigt wie die Exploits funktionieren, ähnlich wie eine Dokumentation.  Als Kriterien haben wir:
+
+Motivation/Lernfreude: Wie viel interesse haben wir für das Pdrojekt? Wie motiviert sind wir für die Realisation des Projektes? 
+
+Persönlicher Nutzen: Wird das gelernte vom Projekt mir bei bei meiner Arbeit einen Nutzen sein? Hat das Produkt einen Wert im Werdegang unseres Berufslebens? 
+
+Geschwindigkeit: Wie viel Zeit geben wir uns für das Projekt? Werden wir das Projekt eher schneller Vorgehen oder langsamer? (Je höher, deso schneller)
+
+Punkte:
+- 5P sehr hoch
+- 4P hoch
+- 3P mässsig
+- 2P tief
+- 1P sehr tief
+
 ![entscheidung](https://github.com/MaxHD00/M431_Cyberangriffe_Doku/assets/160583670/805d7ccd-8217-46e3-a22d-ab8a4c0f54da)
+
+Schlussendlich ist das "Video + Doku" geeigneter als die "Webseite". Der Unterschied ist bei dem Kriterium Geschwindigkeit. Wir sind uns einig, dass das Aufsetzen und recherchieren mit unseren Thema länger dauert. 
 
 ## R-Realisierung
 ## K-Kontrolle
