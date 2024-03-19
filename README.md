@@ -68,6 +68,7 @@ Punkte:
 Schlussendlich ist das "Video + Doku" geeigneter als die "Webseite". Der Unterschied ist bei dem Kriterium Geschwindigkeit. Wir sind uns einig, dass das Aufsetzen und das Recherchieren mit unseres Thema länger dauert. Mit dem Thema kennt sich der Hauptteil unseres Teams nicht aus, deswegen macht es Sinn sich auf das Thema zu konzentrieren. Das Wissen, welches wir uns aneignen hat einen grossen Mehrwert in unserem Werdegang. Die Videos werden Schnittkenntisse fordern.
 
 ## R-Realisierung
+https://docs.google.com/document/d/1ZaDHBLSZKw7FErjkCGjsLc5UVT9UpCLyHAtELNUnSWA/edit?pli=1
 ## K-Kontrolle
 ## A-Auswertung
 
