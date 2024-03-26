@@ -69,8 +69,25 @@ Punkte:
 Schlussendlich ist das "Video + Doku" geeigneter als die "Webseite". Der Unterschied ist bei dem Kriterium Geschwindigkeit. Wir sind uns einig, dass das Aufsetzen und das Recherchieren mit unseres Thema länger dauert. Mit dem Thema kennt sich der Hauptteil unseres Teams nicht aus, deswegen macht es Sinn sich auf das Thema zu konzentrieren. Das Wissen, welches wir uns aneignen hat einen grossen Mehrwert in unserem Werdegang. Die Videos werden Schnittkenntisse fordern.
 
 ## R-Realisierung
+
+Für die Dokumentationen haben wir die fünf Unterkapitel von unseren Themn gewählt. Danach haben wir die Recherche begonnen. Die Videos basieren auf der Dokumentation, deswegen muss die Dokumentation vor dem Videoschnitt fertig sein. Aber weil das Programm noch neu ist, üben wir erstamls.
+
+Die Abfolge von der Dokumentation ist wie folgt:
+- Exploits
+- Zero-Day Exploit
+- Man-in-the-Middle Exploit
+- Session-Hijacking
+
+Wir haben es nach der Schwirigkeit der einzelnen Themen angereiht. Somit wird die Dokumentation auch für Aussenstehende verständlich. 
+
+Dokumentation:
+
 https://docs.google.com/document/d/1ZaDHBLSZKw7FErjkCGjsLc5UVT9UpCLyHAtELNUnSWA/edit?pli=1
-https://streamable.com/7m6mov
+
+Videos:
+
+Man-in-the-Middle: https://streamable.com/7m6mov
+
 ## K-Kontrolle
 ## A-Auswertung
 
