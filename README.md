@@ -301,19 +301,19 @@ Session Hijacking: [Session Hijacking](https://streamable.com/pth051)
 Vergleich mit den SMART Zielen:
 
 Anforderungen an die Dokumenation 
-            
-            - Themen; Exploits, Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits
-            - 5 Unterkapitel pro Thema(Exploits ausgeschlossen)
-            - Fertig am 19.3. ohne Kontrolle oder Auswertung
+
+- Themen; Exploits, Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits
+- 5 Unterkapitel pro Thema(Exploits ausgeschlossen)
+- Fertig am 19.3. ohne Kontrolle oder Auswertung
             
 
 Wir haben über die bestimmten Themen geschrieben und diese erklärt. Jedes Thema hat 4 Unterkapitel, dass letzte Unterkapitel haben wir zusammen genommen, weil das Unterkapitel für alle Themen ähnlich ist und wir wollen keine unnötige redundanz. Die Dokumentation konnten wir erst am 26.3. fertigstellen noch ohne Kontrolle oder Auswertung. Wir waren schon vorbereitet auf die Situation und konnten den Puffer nutzen.
 
 Anforderungen an die Videos
 
-            - drei Videos über Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits
-            - sind ca. 30s lang
-            - Fertig am 19.3 ohne Kontrolle oder Auswertung
+- drei Videos über Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits
+- sind ca. 30s lang
+- Fertig am 19.3 ohne Kontrolle oder Auswertung
 
 Die Videos sind ungefähr alle 30 Sekunden lang und beinhalten die gewünschten Themen. Sie basieren auf der Dokumentation. Erst am 2.4 konnten wir alle Videos ohne Kontrolle oder Auswertung fertigstellen
 
