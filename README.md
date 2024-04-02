@@ -27,6 +27,7 @@ Wir werden drei ~30 Sekunden Videos erstellen mit qualitatoven Inhalt von Exploi
 Dazu noch in einer Dokumentation die einzelnen Themen vertiefst anschauen, jedes Thema in 5 Unterthemen unterteilt.
 Die Themen sind: Exploits, Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits. Am 19.3 werden wir mit der Dokumentation und den Videos fertig sein ohne Kontrolle und Auswertung.
 Zum Auswerten werden wir die von Videos Kollegen bewerten lassen mit einem Auswertungsbogen.
+Als Auswertung erwarten wir einen Durchschnitt von 4 Punkten.
 
 Brainstorm - Mindmap
 
