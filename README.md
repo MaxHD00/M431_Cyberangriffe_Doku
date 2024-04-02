@@ -86,11 +86,11 @@ https://docs.google.com/document/d/1ZaDHBLSZKw7FErjkCGjsLc5UVT9UpCLyHAtELNUnSWA/
 
 Videos:
 
-Zero-Day-Exploit: https://streamable.com/t3l5k4
+Zero-Day Exploit: [Zero-Day Exploit](https://streamable.com/t3l5k4)
 
-Man-in-the-Middle: https://streamable.com/7m6mov
+Man-in-the-Middle: [Man-in-the-Middle](https://streamable.com/7m6mov)
 
-Session-Hijacking: https://streamable.com/a92jfs
+Session Hijacking: [Session Hijacking](https://streamable.com/pth051)
 
 ## K-Kontrolle
 
