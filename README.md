@@ -25,7 +25,7 @@ Eine Dokumentation über Exploits; Man-in-the-Middle, Session Hijacking, Zero-Da
 
 Wir werden drei ~30 Sekunden Videos erstellen mit qualitatoven Inhalt von Exploits Erarbeitet mit Iperka in 5 Wochen.
 Dazu noch in einer Dokumentation die einzelnen Themen vertiefst anschauen, jedes Thema in 5 Unterthemen unterteilt.
-Die Themen sind: Exploits, Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits. Am 12.3 werden wir mit der Dokumentation und den Videos fertig sein ohne Kontrolle und Auswertung.
+Die Themen sind: Exploits, Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits. Am 19.3 werden wir mit der Dokumentation und den Videos fertig sein ohne Kontrolle und Auswertung.
 Zum Auswerten werden wir die von Videos Kollegen bewerten lassen mit einem Auswertungsbogen.
 
 Brainstorm - Mindmap
@@ -89,5 +89,25 @@ Videos:
 Man-in-the-Middle: https://streamable.com/7m6mov
 
 ## K-Kontrolle
+
+Vergleich mit den SMART Zielen:
+
+Anforderungen an die Dokumenation 
+            
+            - Themen; Exploits, Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits
+            - 5 Unterkapitel pro Thema(Exploits ausgeschlossen)
+            - Fertig am 19.3. ohne Kontrolle oder Auswertung
+            
+
+Wir haben über die bestimmten Themen geschrieben und diese erklärt. Jedes Thema hat 4 Unterkapitel, dass letzte Unterkapitel haben wir zusammen genommen, weil das Unterkapitel für alle Themen ähnlich ist und wir wollen keine unnötige redundanz. Die Dokumentation konnten wir erst am 26.3. fertigstellen noch ohne Kontrolle oder Auswertung. Wir waren schon vorbereitet auf die Situation und konnten den Puffer nutzen.
+
+Anforderungen an die Videos
+
+            - drei Videos über Man-in-the-Middle, Session Hijacking, Zero-Day-Exploits
+            - sind ca. 30s lang
+            - Fertig am 19.3 ohne Kontrolle oder Auswertung
+
+Die Videos sind ungefähr alle 30 Sekunden lang und beinhalten die gewünschten Themen. Sie basieren auf der Dokumentation. Erst am 2.4 konnten wir alle Videos ohne Kontrolle oder Auswertung fertigstellen
+
 ## A-Auswertung
 
