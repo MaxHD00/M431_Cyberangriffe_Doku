@@ -86,15 +86,7 @@ https://docs.google.com/document/d/1ZaDHBLSZKw7FErjkCGjsLc5UVT9UpCLyHAtELNUnSWA/
 
 ### Exploits
 Exploits sind im Generellen eine Sicherheitslücke. Diese Schwachstellen können überall im System liegen, aber auch beim Ausführen von Programmen. Angreifer suchen diese Exploits und nutzen diese dann aus. Man kann verschiedene Programme installieren, welche die Exploits finden sollten.
-Es gibt verschiedene Arten, wie man Exploit nutzen kann.
-
-Remote ausgeführte Exploits
-
-Lokale ausgeführte Exploits
-
-Denial-of-Service-Exploits (DoS-Exploits)
-
-SQL-Injection-Exploits
+Es gibt verschiedene Arten, wie man Exploit nutzen kann. Remote ausgeführte Exploits, Lokale ausgeführte Exploits, SQL-Injection-Exploits
 
 Remote-Exploits: Hier zielt man auf die Schwachstellen der Netzwerksoftware und schickt manipulierte Datenpakete für den Angriff.
 
