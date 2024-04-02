@@ -74,7 +74,7 @@ Für die Dokumentationen haben wir die fünf Unterkapitel von unseren Themn gew�
 
 Die Abfolge von der Dokumentation ist wie folgt:
 - Exploits
-- Zero-Day Exploit
+- Zero-Day-Exploit
 - Man-in-the-Middle Exploit
 - Session-Hijacking
 
@@ -86,9 +86,11 @@ https://docs.google.com/document/d/1ZaDHBLSZKw7FErjkCGjsLc5UVT9UpCLyHAtELNUnSWA/
 
 Videos:
 
-Zero-Day Exploit: https://streamable.com/t3l5k4
+Zero-Day-Exploit: https://streamable.com/t3l5k4
 
 Man-in-the-Middle: https://streamable.com/7m6mov
+
+Session-Hijacking: https://streamable.com/a92jfs
 
 ## K-Kontrolle
 
