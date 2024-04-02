@@ -318,3 +318,7 @@ Die Videos sind ungefähr alle 30 Sekunden lang und beinhalten die gewünschten 
 
 ## A-Auswertung
 
+Zum Auswerten der Videos haben wir mit Google Forms ein Auswertungsblatt erstellt:
+
+[Auswertungsblatt](https://forms.gle/36k1yC8rGbmynBNT9)
+
