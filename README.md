@@ -86,6 +86,8 @@ https://docs.google.com/document/d/1ZaDHBLSZKw7FErjkCGjsLc5UVT9UpCLyHAtELNUnSWA/
 
 Videos:
 
+Zero-Day Exploit: https://streamable.com/t3l5k4
+
 Man-in-the-Middle: https://streamable.com/7m6mov
 
 ## K-Kontrolle
