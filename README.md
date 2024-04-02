@@ -78,7 +78,7 @@ Die Abfolge von der Dokumentation ist wie folgt:
 - Man-in-the-Middle Exploit
 - Session-Hijacking
 
-Wir haben es nach der Schwirigkeit der einzelnen Themen angereiht. Somit wird die Dokumentation auch für Aussenstehende verständlich. 
+Wir haben es nach der Schwierigkeit der einzelnen Themen angereiht. Somit wird die Dokumentation auch für Aussenstehende verständlich. 
 
 Dokumentation:
 
@@ -88,13 +88,19 @@ https://docs.google.com/document/d/1ZaDHBLSZKw7FErjkCGjsLc5UVT9UpCLyHAtELNUnSWA/
 Exploits sind im Generellen eine Sicherheitslücke. Diese Schwachstellen können überall im System liegen, aber auch beim Ausführen von Programmen. Angreifer suchen diese Exploits und nutzen diese dann aus. Man kann verschiedene Programme installieren, welche die Exploits finden sollten.
 Es gibt verschiedene Arten, wie man Exploit nutzen kann.
 
- Remote ausgeführte Exploits
- Lokale ausgeführte Exploits
- Denial-of-Service-Exploits (DoS-Exploits)
- SQL-Injection-Exploits
+Remote ausgeführte Exploits
+
+Lokale ausgeführte Exploits
+
+Denial-of-Service-Exploits (DoS-Exploits)
+
+SQL-Injection-Exploits
+
 Remote-Exploits: Hier zielt man auf die Schwachstellen der Netzwerksoftware und schickt manipulierte Datenpakete für den Angriff.
- Lokaler Exploit: Hier spricht man von einem Programmcode, der in einer Datei mit drin ist. Es sind meist harmlose Dateien wie eine Textdatei. Doch beim Öffnen wird sie sofort aktiviert und durchgeführt, ohne das Wissen vom User.
- SQL-Injection-Exploits: Hier werden Webanwendungen angegriffen. Man schreibt einen Schadcode für diese SQL-Datenbank.
+
+Lokaler Exploit: Hier spricht man von einem Programmcode, der in einer Datei mit drin ist. Es sind meist harmlose Dateien wie eine Textdatei. Doch beim Öffnen wird sie sofort aktiviert und durchgeführt, ohne das Wissen vom User.
+
+SQL-Injection-Exploits: Hier werden Webanwendungen angegriffen. Man schreibt einen Schadcode für diese SQL-Datenbank.
 
 
 ### Zero-Day Exploit
@@ -110,8 +116,11 @@ Die Funktionsweise eines Zero-Day-Exploits hängt von der Art der Sicherheitslü
 Der Prozess für die Ausnutzung eines Zero-Day beginnt, sobald ein Angreifer die Sicherheitslücke entdeckt hat. Diese Schwachstelle kann sich in Hardware, Firmware, Software oder jedem anderen Unternehmensnetzwerk befinden. Die folgenden Schritte beschreiben einen typischen Zero-Day-Angriff:
 
 1. Entwickler veröffentlichen eine Anwendung oder ein Update für eine Anwendung, das eine bisher unbekannte Sicherheitslücke enthält.
+
 2. Ein Angreifer durchsucht die Software und entdeckt die Sicherheitslücke entweder durch Scannen oder durch das Herunterladen des Codes aus einem Repository und anschließende Analyse.
+
 3. Der Angreifer nutzt Tools und Ressourcen, um die Schwachstelle auszunutzen. Dies kann benutzerdefinierter Code sein, den der Angreifer schreibt, oder bereits vorhandene Tools.
+
 4. Die Sicherheitslücke wird möglicherweise über Jahre hinweg ausgenutzt, bevor sie erkannt wird. Schließlich können Forscher, die Öffentlichkeit oder IT-Experten auf Hacker-Aktivitäten stoßen und die Schwachstelle an die Entwickler melden.
 
 Der Begriff "Zero-Day" bezieht sich auf die Zeit, die Entwickler haben, um eine Sicherheitslücke zu schließen. Wenn der Angreifer die Lücke entdeckt, haben die Entwickler null Tage Zeit, um sie zu beheben. Sobald ein Patch verfügbar ist, gilt die Lücke nicht mehr als Zero-Day. Allerdings können Sicherheitslücken weiterhin bestehen, wenn Administratoren und Benutzer nicht die neuesten Updates installieren. Solche Systeme sind ein häufiger Grund für kritische Daten Verletzungen. Zum Beispiel wurde der Equifax-Hack, bei dem Hacker hunderte Millionen Datensätze stahlen, von einem öffentlich zugänglichen Server verursacht, auf dem die neuesten Patches nicht installiert waren.
@@ -169,8 +178,11 @@ Ein Man-in-the-Middle-Angriff funktioniert, indem der Angreifer entweder physisc
 #### Ausnutzung und Angriffsmethoden
 
 LAN Angriffe
+
 - physische zugang zu den datenleitung
+
 - Im ethernet die *ARP-tabelle der opfersystem modifizieren durch *ARP-Spoofing. 
+
  -> ermöglicht das Abhören des Datenverkehrs an Switches. Dies funktioniert, wenn der angreifer in die gleiche Lokalnetz ist. 
 
 -  Der Angreifer hängt am gleichen Netzwerkbus wie das Opfer, das funktioniert nur mit netzwerken mit busstruktur, wie z.B Ethernet mit Hub oder 10base2 sowie bei einer Token-ring-infrastruktur. diese techniken sind sehr veraltet und kommen sehr selten vor.
@@ -184,7 +196,9 @@ WLAN Angriffe
 Weitere MITM-Angriffe
 
 - Der Angreifer hat Kontrolle über einen Router, der durch den Datenverkehr geschleust wird. Dies funktioniert im WAN, LAN und WLAN.
+
 - Durch *DNS Cache Poisoning gibt dem Angreifer eine falsche Zieladresse für die Internetkommunikation vor und leitet den Verkehr zu seinem eigenen Rechner (Poison Routing).
+
 - Durch Manipulation der *Host-Datei auf dem Rechner des Angegriffenen können trotz der Eingabe der echten URL gefälschte IP-Adresse aufgelöst werden.
 
 Bekannte Computerprogramme für MITM-Angriffe sind Ettercap und Cain & Abel.
@@ -240,7 +254,9 @@ Bei der Sitzungsfixierungs wird dem Benutzer eine Sitzungs-ID vom Angreifer zuge
 Begriffe:
 
 *SQL: Structured Query Language
+
 *Sniffing:  Der Pakete Austausch im Netzwerk wird überwacht und abgefangen.
+
 *SSL-Zertifikat: Das Secure Socket Layer- Zertifikat verschlüsselt den Datenaustausch.
 
 
