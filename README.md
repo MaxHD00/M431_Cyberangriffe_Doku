@@ -290,11 +290,11 @@ Phishing-E-Mails sind eine häufige Methode, mit dem Angreifer Man-in-the-Middle
 
 Videos:
 
-Zero-Day Exploit: [Zero-Day Exploit](https://streamable.com/t3l5k4)
+[Zero-Day Exploit](https://streamable.com/8fza06)
 
-Man-in-the-Middle: [Man-in-the-Middle](https://streamable.com/7m6mov)
+[Man-in-the-Middle](https://streamable.com/7m6mov)
 
-Session Hijacking: [Session Hijacking](https://streamable.com/pth051)
+[Session Hijacking](https://streamable.com/ttgn4w)
 
 ## K-Kontrolle
 
