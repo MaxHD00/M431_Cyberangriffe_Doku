@@ -323,3 +323,8 @@ Zum Auswerten der Videos haben wir mit Google Forms ein Auswertungsblatt erstell
 
 [Auswertungsblatt](https://forms.gle/36k1yC8rGbmynBNT9)
 
+Nachdem wir alle drei Videos präsentiert hatten, konnten alle Schüler das Auswertungsblatt ausfüllen. Wir erzielten durchschnittlich etwa 4 Punkte. 
+Alle Resultaten finden Sie hier:
+
+[Auswertungsblatt-Antworten](https://docs.google.com/spreadsheets/d/1nL1-TyC4oUuu9wnB4-dNQ81QHUjXO6lKAFdkpNwQyWU/edit?resourcekey#gid=586479531)
+
