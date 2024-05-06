@@ -328,3 +328,8 @@ Alle Resultaten finden Sie hier:
 
 [Auswertungsblatt-Antworten](https://docs.google.com/spreadsheets/d/1nL1-TyC4oUuu9wnB4-dNQ81QHUjXO6lKAFdkpNwQyWU/edit?resourcekey#gid=586479531)
 
+
+Mit dem schriftlich konkreten Feedback würden wir für die Bearbeitung folgende Schritte noch unternehmen:
+
+Generell sollte man für die Videos Musik einsetzen oder jemanden sprechen hören. Das würde das Video spannender gestalten und ein besseres Verständnis der einzelnen Themen ermöglichen.
+
